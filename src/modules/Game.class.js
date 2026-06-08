@@ -371,6 +371,7 @@ class Game {
     // console.log(this.currentState);
 
     this.generator();
+    this.generator();
   }
 
   /**
